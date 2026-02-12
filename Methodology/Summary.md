@@ -35,7 +35,7 @@ The following core methodologies are maintained.
 
 ---
 
-### Incident Management Methodology
+### [Incident Management Methodology](https://drive.google.com/file/d/1_L2bc3oRmY3N7qnqRQmoVk8NSTdFKycd/view?usp=drive_link)
 
 Focus Area
 Detection, escalation, containment, and stabilization of AI system failures
@@ -50,7 +50,7 @@ Key Components
 
 ---
 
-### Root Cause Analysis Methodology
+### [Root Cause Analysis Methodology](https://drive.google.com/file/d/1wQrFvF4dCeJckIlwAqQ9gTW8_zElSZhs/view?usp=drive_link)
 
 Focus Area
 Systematic identification of technical, operational, and governance failures
@@ -65,7 +65,7 @@ Key Components
 
 ---
 
-### Risk and Governance Methodology
+### [Risk and Governance Methodology](https://drive.google.com/file/d/1hiOAQKZ0PCMauyveUakT0skMH5vYxb_D/view?usp=drive_link)
 
 Focus Area
 Integration of incident findings into enterprise risk and control systems
@@ -80,7 +80,7 @@ Key Components
 
 ---
 
-### Evaluation and EvalOps Methodology
+### [Evaluation and EvalOps Methodology](https://drive.google.com/file/d/1cuipLNwnE1twvlpF6xV7g7VF4W9-Obs9/view?usp=drive_link)
 
 Focus Area
 Governance of model evaluation, validation, and performance assurance
