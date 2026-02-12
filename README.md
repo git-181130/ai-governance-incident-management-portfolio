@@ -3,11 +3,7 @@
 
 ## Overview
 
-This repository presents a comprehensive portfolio of enterprise-grade frameworks, applied case studies, and post-incident institutionalization reports for AI-enabled systems.
-
-It demonstrates practical experience in managing operational, ethical, safety, and regulatory risks across the full AI product lifecycle.
-
-All materials are anonymized and structured to reflect industry-standard governance, audit, and compliance practices.
+This repository presents a comprehensive portfolio of enterprise-grade frameworks, applied case studies, and post-incident institutionalization reports for AI-enabled systems. It demonstrates practical experience in managing operational, ethical, safety, and regulatory risks across the full AI product lifecycle. All materials are anonymized and structured to reflect industry-standard governance, audit, and compliance practices.
 
 ---
 
@@ -98,7 +94,7 @@ Executive-level materials providing a consolidated view of:
 * Governance maturity
 * Strategic positioning
 
-Located in `06_Portfolio_Summary/`.
+Located in `05_Portfolio_Summary/`.
 
 ---
 
@@ -118,11 +114,7 @@ These principles align with industry and regulatory expectations for responsible
 
 ## Confidentiality and Anonymization
 
-All case studies and reports are anonymized.
-
-No proprietary, confidential, or personally identifiable information is disclosed.
-
-Scenarios are presented in a governance-compliant format suitable for professional and regulatory review.
+All case studies and reports are anonymized. No proprietary, confidential, or personally identifiable information is disclosed. Scenarios are presented in a governance-compliant format suitable for professional and regulatory review.
 
 ---
 
@@ -142,16 +134,12 @@ It may also be used as a reference for internal governance development.
 
 ## Professional Statement
 
-This portfolio reflects applied experience in designing, operating, and governing AI systems in high-risk and trust-sensitive environments.
-
-It demonstrates a commitment to building reliable, ethical, and resilient AI products through structured governance and continuous improvement.
+This portfolio reflects applied experience in designing, operating, and governing AI systems in high-risk and trust-sensitive environments. It demonstrates a commitment to building reliable, ethical, and resilient AI products through structured governance and continuous improvement.
 
 ---
 
 ## Contact and Usage
 
-This repository is provided for professional evaluation and learning purposes.
-
-Content may not be reproduced or redistributed without appropriate authorization.
+This repository is provided for professional evaluation and learning purposes. Content may not be reproduced or redistributed without appropriate authorization.
 
 
