@@ -28,12 +28,11 @@ The contents address risks related to performance, privacy, safety, reliability,
 ## Repository Structure
 
 ```
-01_Frameworks/              Core governance and risk management frameworks
-02_Case_Studies/            Applied AI incident case studies
-03_Post_Incident_Reports/   Institutionalization and maturity reports
-04_Methodology/             Operational and governance methodologies
-05_Templates/               Standardized governance templates
-06_Portfolio_Summary/       Executive and professional summaries
+Frameworks/              Core governance and risk management frameworks
+Case_Studies/            Applied AI incident case studies
+Post_Incident_Reports/   Institutionalization and maturity reports
+Methodology/             Operational and governance methodologies
+Portfolio_Summary/       Executive and professional summaries
 docs/                       Extended documentation
 ```
 
@@ -76,9 +75,9 @@ Located in `03_Post_Incident_Reports/`.
 
 ---
 
-### Methodology and Templates
+### Methodology
 
-Reusable governance methodologies and standardized operational templates supporting:
+Reusable governance methodologies and standardized operational supporting:
 
 * Incident response
 * Root cause analysis
@@ -86,7 +85,7 @@ Reusable governance methodologies and standardized operational templates support
 * Executive review
 * Maturity assessment
 
-Located in `04_Methodology/` and `05_Templates/`.
+Located in `04_Methodology/`.
 
 ---
 
